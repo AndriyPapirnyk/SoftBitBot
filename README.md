@@ -1,2 +1,2 @@
-# SoftBitBot
+# index.js
 Telegram Bot
